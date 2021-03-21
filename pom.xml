@@ -25,6 +25,7 @@
     <version>0.3.0-SNAPSHOT</version>
     <name>KNX Logic Test Suite</name>
     <description>Test Suite for KNX Logic and KNX Logic Components</description>
+    <url>https://github.com/pitschr/knx-logic-testsuite</url>
 
     <!-- Licenses -->
     <licenses>
